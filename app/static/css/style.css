@@ -1,0 +1,14 @@
+.bg-primary
+{
+    background-color: #79aec8 !important;
+    padding-left:20px !important;
+}
+.mt20
+{
+    margin-top:20px;
+}
+.container-custom
+{
+    width:96% !important;
+    margin:auto;
+}
